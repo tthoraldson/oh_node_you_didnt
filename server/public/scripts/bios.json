@@ -1,12 +1,12 @@
 {
   "people": [{
-    "name":   "Theresa Thoraldson",
-    "bio":    "I really like cats and programming and biking and sleeping and people watching",
-    "likes":  0
+      "name":   "Theresa Thoraldson",
+      "bio":    "I really like cats and programming and biking and sleeping and people watching",
+      "likes":  0
   },{
-    "name":   "Mat McCully",
-    "bio":    "swag",
-    "likes":  0
+      "name":   "Mat McCully",
+      "bio":    "swag",
+      "likes":  0
   },{
       "name":   "Nick Matecki",
       "bio":    "swag",
